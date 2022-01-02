@@ -1,6 +1,6 @@
 # 1004번
 ## 문제
-- 주소 : https://www.acmicpc.net/problem/1000
+- 주소 : https://www.acmicpc.net/problem/1004
 
 ![dfcmhrjj_113gw6bcng2_b](https://user-images.githubusercontent.com/90492809/147871106-19cea7fd-87da-4d61-b86b-79f1071d6cc9.gif)
 
